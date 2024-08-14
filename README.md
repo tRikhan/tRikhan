@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Tafrikhan</h1>
 <h3 align="center">=== A passionate IT Student from Tidar University ===</h3>
 
-- 🍀 I’m currently learning **Big Data, Networking, and OOP (with Java) this semester..**
+- 🍀 I’m currently learning **Big Data, Networking, and OOP (with Java) this semester.**
 
 - 🍀 My hobbies and interest are **reading manga,discussing about new technologies, gaming.**
 

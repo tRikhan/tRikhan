@@ -3,7 +3,7 @@
 
 - 🍀 I’m currently learning **Big Data, Networking, and OOP (with Java) this semester.**
 
-- 🍀 My hobbies and interest are **reading manga,discussing about new technologies, gaming.**
+- 🍀 My hobbies and interest are **reading manga, watching anime, working out, discussing about new technologies, gaming.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

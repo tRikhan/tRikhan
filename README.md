@@ -1,11 +1,19 @@
 <h2 align="center">Hello! My name is Tafrikhan and I'm an IT Student, from Tidar University</h2>
 
 ###
-- 🍀 I’m currently learning **Big Data, Networking, and OOP (with Java) this semester.**
-- 🍀 My hobbies and interest are **reading manga, watching anime, working out, discussing about new technologies, gaming.**
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tRikhan.tRikhan&left_color=royalblue&right_color=black"  />
+<h3 align="center">~ Junior Developer from Indonesia ~</h3>
+
 ###
+
+- 🍀 I’m currently learning **Big Data, Networking, and OOP (with Java) this semester.**
+- 🍀 My hobbies include **working out, discussing new technologies, browsing and engaging with communities on Reddit and Discord, gaming, reading manga, and watching anime.**
+
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tRikhan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=tRikhan&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tRikhan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -60,11 +68,5 @@
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=tafrikhan&theme=nightowl" alt="Layout with last medium posts"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/tRikhan/tRikhan/output/snake.svg" alt="Snake animation" />
 
 ###

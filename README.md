@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Tafrikhan</h1>
-<h3 align="center">=== A passionate IT Student from Tidar University ===</h3>
+<h3 align="center">=== IT Student from Tidar University ===</h3>
 
 - 🍀 I’m currently learning **Big Data, Networking, and OOP (with Java) this semester.**
 

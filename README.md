@@ -71,10 +71,10 @@
 
 <br>
 <h3 align="center">=== Latest Medium Post ===</h3>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tafrikhan/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@tafrikhan/0" alt=" ">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tafrikhan/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@tafrikhan/0" alt="Coming Soon...">
 <br>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tafrikhan/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@tafrikhan/1" alt=" ">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tafrikhan/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@tafrikhan/1" alt="Coming Soon...">
 <br>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tafrikhan/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@tafrikhan/2" alt=" ">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tafrikhan/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@tafrikhan/2" alt="Coming Soon...">
 
 ###

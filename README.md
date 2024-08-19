@@ -7,6 +7,8 @@
 
 ###
 
+<br>
+
 - 🍀 I’m currently learning **Big Data, Networking, and OOP (with Java) this semester.**
 - 🍀 My hobbies include **working out, discussing new technologies, browsing and engaging with communities on Reddit and Discord, gaming, reading manga, and watching anime.**
 
@@ -67,8 +69,12 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=tafrikhan&theme=nightowl" alt="Layout with last medium posts"  />
-</div>
+<br>
+<h3 align="center">=== Latest Medium Post ===</h3>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tafrikhan/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@tafrikhan/0" alt=" ">
+<br>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tafrikhan/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@tafrikhan/1" alt=" ">
+<br>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tafrikhan/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@tafrikhan/2" alt=" ">
 
 ###

@@ -1,4 +1,4 @@
-<h2 align="center">Hello! My name is Tafrikhan and I'm an IT Student, from Tidar University</h2>
+<h2 align="center">Hello!, I'm Tafrikhan, an IT Student from Tidar University</h2>
 
 ###
 

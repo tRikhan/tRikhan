@@ -9,7 +9,7 @@
 
 <br>
 
-- 🍀 I’m currently learning **Big Data, Networking, and OOP (with Java) this semester.**
+- 🍀 I’m currently learning **WebApp Programming and Mobile App Programming (Flutter) this Semester.**
 - 🍀 My hobbies include **working out, discussing new technologies, browsing and engaging with communities on Reddit and Discord, gaming, reading manga, and watching anime.**
 
 ###
